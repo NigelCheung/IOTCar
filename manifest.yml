@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: AutoCar1Shzhqi
-  host: AutoCar1Shzhqi
+  name: AutoCarShzhqi
+  host: AutoCarShzhqi
   disk_quota: 1024M
